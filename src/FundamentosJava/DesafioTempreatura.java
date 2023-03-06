@@ -16,5 +16,6 @@ public class DesafioTempreatura {
         String J = "A temperatura em F° é";
 
         System.out.println(J.toUpperCase() + F);
+        ler.close();
     }
 }
